@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hey there, I'm Hiruni Athukorala
+👩‍💻 About Me
 
-<!--
-**Hiruniathukorala/hiruniathukorala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a final-year Software Engineering undergraduate at NSBM Green University 🎓
 
-Here are some ideas to get you started:
+I’m passionate about Frontend Development, UI/UX Design, and building impactful digital solutions. I enjoy creating clean, user-friendly applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on
+LifeTrack – Smart Daily Activity & Well-being Tracker (Flutter + Firebase)
+🌱 I’m currently learning
+Flutter, React/Next.js, and Full-Stack Development
+👯 I’m looking to collaborate on
+Mobile apps, Web apps, and UI/UX projects
+💬 Ask me about
+Frontend Development, Flutter, Firebase, UI/UX, and Business Analysis
+🛠️ Tech Stack
+Flutter Dart React Next.js Node.js Firebase HTML CSS JavaScript
+📫 Connect with me
+👉 LinkedIn Profile
+⚡ Fun fact
+I love combining technology + creativity to build meaningful solutions 💜
